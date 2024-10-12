@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833195614321",
+    "project_id": "my-project-4376-1706809619586",
+    "storage_bucket": "my-project-4376-1706809619586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833195614321:android:85b8e24ab571b2c4487bd0",
+        "android_client_info": {
+          "package_name": "com.example.statussaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrdtDsLD8QMwGIUFQI0w1H5JqDgULiDgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
